@@ -1,0 +1,212 @@
+{
+  "Kab. Banjarnegara": {
+    "produksi_mean": 172831.77680548147,
+    "produksi_min": 10000.0,
+    "produksi_max": 312174.825969565,
+    "curah_mean": 2265.319610942402,
+    "suhu_mean": 26.035447608614064
+  },
+  "Kab. Banyumas": {
+    "produksi_mean": 452963.11547967535,
+    "produksi_min": 310115.9520485675,
+    "produksi_max": 649392.5087298992,
+    "curah_mean": 2209.482933433643,
+    "suhu_mean": 26.017689735646567
+  },
+  "Kab. Batang": {
+    "produksi_mean": 216143.25647743663,
+    "produksi_min": 79826.96439249514,
+    "produksi_max": 410269.9648654605,
+    "curah_mean": 2429.481773054356,
+    "suhu_mean": 26.01235567190166
+  },
+  "Kab. Blora": {
+    "produksi_mean": 520910.66042757634,
+    "produksi_min": 365613.4731941733,
+    "produksi_max": 685722.1510973619,
+    "curah_mean": 2346.8500098821796,
+    "suhu_mean": 25.76117392899296
+  },
+  "Kab. Boyolali": {
+    "produksi_mean": 255473.994345932,
+    "produksi_min": 123891.1832917778,
+    "produksi_max": 377325.9247097653,
+    "curah_mean": 2332.011569515662,
+    "suhu_mean": 26.130858790529004
+  },
+  "Kab. Brebes": {
+    "produksi_mean": 590193.2645258607,
+    "produksi_min": 423289.72710923327,
+    "produksi_max": 778374.0084461413,
+    "curah_mean": 2209.482933433643,
+    "suhu_mean": 26.017689735646567
+  },
+  "Kab. Cilacap": {
+    "produksi_mean": 335489.1897519182,
+    "produksi_min": 164486.4390833283,
+    "produksi_max": 539890.5187493956,
+    "curah_mean": 2209.482933433643,
+    "suhu_mean": 26.017689735646567
+  },
+  "Kab. Demak": {
+    "produksi_mean": 501964.4402463664,
+    "produksi_min": 333729.31639883685,
+    "produksi_max": 720723.3652934218,
+    "curah_mean": 2346.8500098821796,
+    "suhu_mean": 25.76117392899296
+  },
+  "Kab. Grobogan": {
+    "produksi_mean": 413077.9202609439,
+    "produksi_min": 239721.4065091526,
+    "produksi_max": 606850.8391382074,
+    "curah_mean": 2346.8500098821796,
+    "suhu_mean": 25.76117392899296
+  },
+  "Kab. Jepara": {
+    "produksi_mean": 442291.95378115686,
+    "produksi_min": 309141.2867679728,
+    "produksi_max": 545137.5271875861,
+    "curah_mean": 2299.9563383380632,
+    "suhu_mean": 25.628645593704146
+  },
+  "Kab. Karanganyar": {
+    "produksi_mean": 600931.0125312466,
+    "produksi_min": 446796.70670503785,
+    "produksi_max": 808980.0179446144,
+    "curah_mean": 2332.011569515662,
+    "suhu_mean": 26.130858790529004
+  },
+  "Kab. Kebumen": {
+    "produksi_mean": 487472.6514747984,
+    "produksi_min": 342599.15197360696,
+    "produksi_max": 702126.7804184341,
+    "curah_mean": 2209.482933433643,
+    "suhu_mean": 26.017689735646567
+  },
+  "Kab. Kendal": {
+    "produksi_mean": 383207.5368285526,
+    "produksi_min": 148641.59158419273,
+    "produksi_max": 574165.3195001697,
+    "curah_mean": 2346.8500098821796,
+    "suhu_mean": 25.76117392899296
+  },
+  "Kab. Klaten": {
+    "produksi_mean": 254463.1693296813,
+    "produksi_min": 161414.96687376997,
+    "produksi_max": 407375.7747411364,
+    "curah_mean": 2332.011569515662,
+    "suhu_mean": 26.130858790529004
+  },
+  "Kab. Kudus": {
+    "produksi_mean": 419742.34450107755,
+    "produksi_min": 297732.721917372,
+    "produksi_max": 561281.8270310857,
+    "curah_mean": 2299.9563383380632,
+    "suhu_mean": 25.628645593704146
+  },
+  "Kab. Magelang": {
+    "produksi_mean": 469044.1351646542,
+    "produksi_min": 354025.9164258418,
+    "produksi_max": 634470.8066082757,
+    "curah_mean": 2332.011569515662,
+    "suhu_mean": 26.130858790529004
+  },
+  "Kab. Pati": {
+    "produksi_mean": 620937.7664956659,
+    "produksi_min": 474375.3633482589,
+    "produksi_max": 838723.0732202415,
+    "curah_mean": 2299.9563383380632,
+    "suhu_mean": 25.628645593704146
+  },
+  "Kab. Pekalongan": {
+    "produksi_mean": 382655.4278625074,
+    "produksi_min": 239902.23085317996,
+    "produksi_max": 563069.9443535825,
+    "curah_mean": 2429.481773054356,
+    "suhu_mean": 26.01235567190166
+  },
+  "Kab. Pemalang": {
+    "produksi_mean": 356770.05596465326,
+    "produksi_min": 225727.2788445838,
+    "produksi_max": 600727.6687502618,
+    "curah_mean": 2429.481773054356,
+    "suhu_mean": 26.01235567190166
+  },
+  "Kab. Purbalingga": {
+    "produksi_mean": 343915.8805842141,
+    "produksi_min": 197597.19375315428,
+    "produksi_max": 526820.2109563735,
+    "curah_mean": 2265.319610942402,
+    "suhu_mean": 26.035447608614064
+  },
+  "Kab. Purworejo": {
+    "produksi_mean": 588080.9638569931,
+    "produksi_min": 449319.9501415266,
+    "produksi_max": 786186.1823883338,
+    "curah_mean": 2332.011569515662,
+    "suhu_mean": 26.130858790529004
+  },
+  "Kab. Rembang": {
+    "produksi_mean": 539217.8764870479,
+    "produksi_min": 385861.0042756708,
+    "produksi_max": 667971.432603468,
+    "curah_mean": 2346.8500098821796,
+    "suhu_mean": 25.76117392899296
+  },
+  "Kab. Semarang": {
+    "produksi_mean": 551326.767836223,
+    "produksi_min": 332038.1514625459,
+    "produksi_max": 710838.4858918656,
+    "curah_mean": 2346.8500098821796,
+    "suhu_mean": 25.76117392899296
+  },
+  "Kab. Sragen": {
+    "produksi_mean": 487696.8913418365,
+    "produksi_min": 325943.2122933141,
+    "produksi_max": 729383.9895694775,
+    "curah_mean": 2332.011569515662,
+    "suhu_mean": 26.130858790529004
+  },
+  "Kab. Sukoharjo": {
+    "produksi_mean": 571741.562136753,
+    "produksi_min": 399898.8186180311,
+    "produksi_max": 732620.233519852,
+    "curah_mean": 2332.011569515662,
+    "suhu_mean": 26.130858790529004
+  },
+  "Kab. Tegal": {
+    "produksi_mean": 478332.6106944172,
+    "produksi_min": 314671.1127292245,
+    "produksi_max": 684457.5477590312,
+    "curah_mean": 2346.8500098821796,
+    "suhu_mean": 25.76117392899296
+  },
+  "Kab. Temanggung": {
+    "produksi_mean": 283449.27792038186,
+    "produksi_min": 165145.71100404632,
+    "produksi_max": 475158.2863407576,
+    "curah_mean": 2346.8500098821796,
+    "suhu_mean": 25.76117392899296
+  },
+  "Kab. Wonogiri": {
+    "produksi_mean": 374569.1498386435,
+    "produksi_min": 237638.24409875445,
+    "produksi_max": 561953.0046424053,
+    "curah_mean": 2332.011569515662,
+    "suhu_mean": 26.130858790529004
+  },
+  "Kota Semarang": {
+    "produksi_mean": 225033.45793198136,
+    "produksi_min": 48760.12302450177,
+    "produksi_max": 451479.3945160279,
+    "curah_mean": 2346.8500098821796,
+    "suhu_mean": 25.76117392899296
+  },
+  "Kota Surakarta": {
+    "produksi_mean": 192882.80742842038,
+    "produksi_min": 33673.28254423961,
+    "produksi_max": 379277.6051637667,
+    "curah_mean": 2332.011569515662,
+    "suhu_mean": 26.130858790529004
+  }
+}

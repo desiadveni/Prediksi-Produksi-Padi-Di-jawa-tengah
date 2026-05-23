@@ -1,0 +1,272 @@
+{
+  "Kab. Banjarnegara": {
+    "curah_hujan_mm": 2265.319610942402,
+    "suhu_rata_celsius": 26.035447608614064,
+    "suhu_max_celsius": 32.56796040642523,
+    "suhu_min_celsius": 20.473538338445163,
+    "kelembapan_pct": 78.94158965196249,
+    "penyinaran_jam": 6.049580661941854,
+    "kecepatan_angin_ms": 3.205736358649412
+  },
+  "Kab. Banyumas": {
+    "curah_hujan_mm": 2209.482933433643,
+    "suhu_rata_celsius": 26.017689735646567,
+    "suhu_max_celsius": 32.28141109016707,
+    "suhu_min_celsius": 20.494800955358713,
+    "kelembapan_pct": 79.53089366565877,
+    "penyinaran_jam": 6.44308060624108,
+    "kecepatan_angin_ms": 3.0095202141032864
+  },
+  "Kab. Batang": {
+    "curah_hujan_mm": 2429.481773054356,
+    "suhu_rata_celsius": 26.01235567190166,
+    "suhu_max_celsius": 32.3207816555237,
+    "suhu_min_celsius": 20.239292511866722,
+    "kelembapan_pct": 79.5888382223557,
+    "penyinaran_jam": 6.527640809679937,
+    "kecepatan_angin_ms": 2.8051672115193873
+  },
+  "Kab. Blora": {
+    "curah_hujan_mm": 2346.8500098821796,
+    "suhu_rata_celsius": 25.76117392899296,
+    "suhu_max_celsius": 32.356971522896146,
+    "suhu_min_celsius": 20.392833841602904,
+    "kelembapan_pct": 79.87829234296962,
+    "penyinaran_jam": 6.815683589812161,
+    "kecepatan_angin_ms": 2.9447708489510838
+  },
+  "Kab. Boyolali": {
+    "curah_hujan_mm": 2332.011569515662,
+    "suhu_rata_celsius": 26.130858790529004,
+    "suhu_max_celsius": 32.88669025607037,
+    "suhu_min_celsius": 20.588630160653523,
+    "kelembapan_pct": 78.71691853642137,
+    "penyinaran_jam": 6.6349108804732335,
+    "kecepatan_angin_ms": 3.1483819179141177
+  },
+  "Kab. Brebes": {
+    "curah_hujan_mm": 2209.482933433643,
+    "suhu_rata_celsius": 26.017689735646567,
+    "suhu_max_celsius": 32.28141109016707,
+    "suhu_min_celsius": 20.494800955358713,
+    "kelembapan_pct": 79.53089366565877,
+    "penyinaran_jam": 6.44308060624108,
+    "kecepatan_angin_ms": 3.0095202141032864
+  },
+  "Kab. Cilacap": {
+    "curah_hujan_mm": 2209.482933433643,
+    "suhu_rata_celsius": 26.017689735646567,
+    "suhu_max_celsius": 32.28141109016707,
+    "suhu_min_celsius": 20.494800955358713,
+    "kelembapan_pct": 79.53089366565877,
+    "penyinaran_jam": 6.44308060624108,
+    "kecepatan_angin_ms": 3.0095202141032864
+  },
+  "Kab. Demak": {
+    "curah_hujan_mm": 2346.8500098821796,
+    "suhu_rata_celsius": 25.76117392899296,
+    "suhu_max_celsius": 32.356971522896146,
+    "suhu_min_celsius": 20.392833841602904,
+    "kelembapan_pct": 79.87829234296962,
+    "penyinaran_jam": 6.815683589812161,
+    "kecepatan_angin_ms": 2.9447708489510838
+  },
+  "Kab. Grobogan": {
+    "curah_hujan_mm": 2346.8500098821796,
+    "suhu_rata_celsius": 25.76117392899296,
+    "suhu_max_celsius": 32.356971522896146,
+    "suhu_min_celsius": 20.392833841602904,
+    "kelembapan_pct": 79.87829234296962,
+    "penyinaran_jam": 6.815683589812161,
+    "kecepatan_angin_ms": 2.9447708489510838
+  },
+  "Kab. Jepara": {
+    "curah_hujan_mm": 2299.9563383380632,
+    "suhu_rata_celsius": 25.628645593704146,
+    "suhu_max_celsius": 33.068191301884674,
+    "suhu_min_celsius": 20.397497440333318,
+    "kelembapan_pct": 81.41623785259088,
+    "penyinaran_jam": 6.5737632938227355,
+    "kecepatan_angin_ms": 3.08228252000497
+  },
+  "Kab. Karanganyar": {
+    "curah_hujan_mm": 2332.011569515662,
+    "suhu_rata_celsius": 26.130858790529004,
+    "suhu_max_celsius": 32.88669025607037,
+    "suhu_min_celsius": 20.588630160653523,
+    "kelembapan_pct": 78.71691853642137,
+    "penyinaran_jam": 6.6349108804732335,
+    "kecepatan_angin_ms": 3.1483819179141177
+  },
+  "Kab. Kebumen": {
+    "curah_hujan_mm": 2209.482933433643,
+    "suhu_rata_celsius": 26.017689735646567,
+    "suhu_max_celsius": 32.28141109016707,
+    "suhu_min_celsius": 20.494800955358713,
+    "kelembapan_pct": 79.53089366565877,
+    "penyinaran_jam": 6.44308060624108,
+    "kecepatan_angin_ms": 3.0095202141032864
+  },
+  "Kab. Kendal": {
+    "curah_hujan_mm": 2346.8500098821796,
+    "suhu_rata_celsius": 25.76117392899296,
+    "suhu_max_celsius": 32.356971522896146,
+    "suhu_min_celsius": 20.392833841602904,
+    "kelembapan_pct": 79.87829234296962,
+    "penyinaran_jam": 6.815683589812161,
+    "kecepatan_angin_ms": 2.9447708489510838
+  },
+  "Kab. Klaten": {
+    "curah_hujan_mm": 2332.011569515662,
+    "suhu_rata_celsius": 26.130858790529004,
+    "suhu_max_celsius": 32.88669025607037,
+    "suhu_min_celsius": 20.588630160653523,
+    "kelembapan_pct": 78.71691853642137,
+    "penyinaran_jam": 6.6349108804732335,
+    "kecepatan_angin_ms": 3.1483819179141177
+  },
+  "Kab. Kudus": {
+    "curah_hujan_mm": 2299.9563383380632,
+    "suhu_rata_celsius": 25.628645593704146,
+    "suhu_max_celsius": 33.068191301884674,
+    "suhu_min_celsius": 20.397497440333318,
+    "kelembapan_pct": 81.41623785259088,
+    "penyinaran_jam": 6.5737632938227355,
+    "kecepatan_angin_ms": 3.08228252000497
+  },
+  "Kab. Magelang": {
+    "curah_hujan_mm": 2332.011569515662,
+    "suhu_rata_celsius": 26.130858790529004,
+    "suhu_max_celsius": 32.88669025607037,
+    "suhu_min_celsius": 20.588630160653523,
+    "kelembapan_pct": 78.71691853642137,
+    "penyinaran_jam": 6.6349108804732335,
+    "kecepatan_angin_ms": 3.1483819179141177
+  },
+  "Kab. Pati": {
+    "curah_hujan_mm": 2299.9563383380632,
+    "suhu_rata_celsius": 25.628645593704146,
+    "suhu_max_celsius": 33.068191301884674,
+    "suhu_min_celsius": 20.397497440333318,
+    "kelembapan_pct": 81.41623785259088,
+    "penyinaran_jam": 6.5737632938227355,
+    "kecepatan_angin_ms": 3.08228252000497
+  },
+  "Kab. Pekalongan": {
+    "curah_hujan_mm": 2429.481773054356,
+    "suhu_rata_celsius": 26.01235567190166,
+    "suhu_max_celsius": 32.3207816555237,
+    "suhu_min_celsius": 20.239292511866722,
+    "kelembapan_pct": 79.5888382223557,
+    "penyinaran_jam": 6.527640809679937,
+    "kecepatan_angin_ms": 2.8051672115193873
+  },
+  "Kab. Pemalang": {
+    "curah_hujan_mm": 2429.481773054356,
+    "suhu_rata_celsius": 26.01235567190166,
+    "suhu_max_celsius": 32.3207816555237,
+    "suhu_min_celsius": 20.239292511866722,
+    "kelembapan_pct": 79.5888382223557,
+    "penyinaran_jam": 6.527640809679937,
+    "kecepatan_angin_ms": 2.8051672115193873
+  },
+  "Kab. Purbalingga": {
+    "curah_hujan_mm": 2265.319610942402,
+    "suhu_rata_celsius": 26.035447608614064,
+    "suhu_max_celsius": 32.56796040642523,
+    "suhu_min_celsius": 20.473538338445163,
+    "kelembapan_pct": 78.94158965196249,
+    "penyinaran_jam": 6.049580661941854,
+    "kecepatan_angin_ms": 3.205736358649412
+  },
+  "Kab. Purworejo": {
+    "curah_hujan_mm": 2332.011569515662,
+    "suhu_rata_celsius": 26.130858790529004,
+    "suhu_max_celsius": 32.88669025607037,
+    "suhu_min_celsius": 20.588630160653523,
+    "kelembapan_pct": 78.71691853642137,
+    "penyinaran_jam": 6.6349108804732335,
+    "kecepatan_angin_ms": 3.1483819179141177
+  },
+  "Kab. Rembang": {
+    "curah_hujan_mm": 2346.8500098821796,
+    "suhu_rata_celsius": 25.76117392899296,
+    "suhu_max_celsius": 32.356971522896146,
+    "suhu_min_celsius": 20.392833841602904,
+    "kelembapan_pct": 79.87829234296962,
+    "penyinaran_jam": 6.815683589812161,
+    "kecepatan_angin_ms": 2.9447708489510838
+  },
+  "Kab. Semarang": {
+    "curah_hujan_mm": 2346.8500098821796,
+    "suhu_rata_celsius": 25.76117392899296,
+    "suhu_max_celsius": 32.356971522896146,
+    "suhu_min_celsius": 20.392833841602904,
+    "kelembapan_pct": 79.87829234296962,
+    "penyinaran_jam": 6.815683589812161,
+    "kecepatan_angin_ms": 2.9447708489510838
+  },
+  "Kab. Sragen": {
+    "curah_hujan_mm": 2332.011569515662,
+    "suhu_rata_celsius": 26.130858790529004,
+    "suhu_max_celsius": 32.88669025607037,
+    "suhu_min_celsius": 20.588630160653523,
+    "kelembapan_pct": 78.71691853642137,
+    "penyinaran_jam": 6.6349108804732335,
+    "kecepatan_angin_ms": 3.1483819179141177
+  },
+  "Kab. Sukoharjo": {
+    "curah_hujan_mm": 2332.011569515662,
+    "suhu_rata_celsius": 26.130858790529004,
+    "suhu_max_celsius": 32.88669025607037,
+    "suhu_min_celsius": 20.588630160653523,
+    "kelembapan_pct": 78.71691853642137,
+    "penyinaran_jam": 6.6349108804732335,
+    "kecepatan_angin_ms": 3.1483819179141177
+  },
+  "Kab. Tegal": {
+    "curah_hujan_mm": 2346.8500098821796,
+    "suhu_rata_celsius": 25.76117392899296,
+    "suhu_max_celsius": 32.356971522896146,
+    "suhu_min_celsius": 20.392833841602904,
+    "kelembapan_pct": 79.87829234296962,
+    "penyinaran_jam": 6.815683589812161,
+    "kecepatan_angin_ms": 2.9447708489510838
+  },
+  "Kab. Temanggung": {
+    "curah_hujan_mm": 2346.8500098821796,
+    "suhu_rata_celsius": 25.76117392899296,
+    "suhu_max_celsius": 32.356971522896146,
+    "suhu_min_celsius": 20.392833841602904,
+    "kelembapan_pct": 79.87829234296962,
+    "penyinaran_jam": 6.815683589812161,
+    "kecepatan_angin_ms": 2.9447708489510838
+  },
+  "Kab. Wonogiri": {
+    "curah_hujan_mm": 2332.011569515662,
+    "suhu_rata_celsius": 26.130858790529004,
+    "suhu_max_celsius": 32.88669025607037,
+    "suhu_min_celsius": 20.588630160653523,
+    "kelembapan_pct": 78.71691853642137,
+    "penyinaran_jam": 6.6349108804732335,
+    "kecepatan_angin_ms": 3.1483819179141177
+  },
+  "Kota Semarang": {
+    "curah_hujan_mm": 2346.8500098821796,
+    "suhu_rata_celsius": 25.76117392899296,
+    "suhu_max_celsius": 32.356971522896146,
+    "suhu_min_celsius": 20.392833841602904,
+    "kelembapan_pct": 79.87829234296962,
+    "penyinaran_jam": 6.815683589812161,
+    "kecepatan_angin_ms": 2.9447708489510838
+  },
+  "Kota Surakarta": {
+    "curah_hujan_mm": 2332.011569515662,
+    "suhu_rata_celsius": 26.130858790529004,
+    "suhu_max_celsius": 32.88669025607037,
+    "suhu_min_celsius": 20.588630160653523,
+    "kelembapan_pct": 78.71691853642137,
+    "penyinaran_jam": 6.6349108804732335,
+    "kecepatan_angin_ms": 3.1483819179141177
+  }
+}
