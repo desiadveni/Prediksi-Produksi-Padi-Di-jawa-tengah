@@ -1,11 +1,11 @@
-# 🌾 PadiSight — Prediksi Produksi Padi Jawa Tengah
+# PadiSight — Prediksi Produksi Padi Jawa Tengah
 
 Aplikasi web prediksi produksi padi berbasis Machine Learning (Random Forest)
 untuk 30 Kabupaten di Jawa Tengah, periode data 1990–2025.
 
 ---
 
-## 📁 Struktur Folder
+##  Struktur Folder
 
 ```
 prediksi-padi/
@@ -23,7 +23,7 @@ prediksi-padi/
 
 ---
 
-## 🚀 Cara Deploy (Langkah demi Langkah)
+## Cara Deploy (Langkah demi Langkah)
 
 ### LANGKAH 1 — Persiapan Lokal
 
@@ -64,7 +64,7 @@ Buka browser di: `http://localhost:8501`
 
 ---
 
-## ☁️ Deploy ke Streamlit Community Cloud (GRATIS)
+## Deploy ke Streamlit Community Cloud (GRATIS)
 
 ### Langkah 1 — Upload ke GitHub
 
@@ -97,7 +97,7 @@ URL akan seperti: `https://prediksi-padi-USERNAME.streamlit.app`
 
 ---
 
-## 🐳 Deploy dengan Docker (Opsional)
+## Deploy dengan Docker (Opsional)
 
 ```dockerfile
 FROM python:3.11-slim
@@ -130,7 +130,7 @@ docker run -p 8501:8501 padisight
 
 ---
 
-## 📦 Dependensi
+## Dependensi
 
 ```
 streamlit>=1.32.0
@@ -142,9 +142,3 @@ plotly>=5.18.0
 ```
 
 ---
-
-## ⚠️ Catatan
-
-- File `.pkl` dan `.json` HARUS ada sebelum menjalankan `app.py`
-- Jika upload ke GitHub, pastikan file `dataset_terintegrasi.csv` ikut diupload
-- Untuk Streamlit Cloud: semua file di repo otomatis tersedia
